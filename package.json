@@ -1,0 +1,20 @@
+{
+  "name": "cli-quiz-game-umer-fun",
+  "version": "1.0.0",
+  "description": "This is quiz cli project,which consist of MCQs Question ,Each question have 10 marks.",
+  "main": "main.js",
+  "type": "module",
+  "bin" : "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
